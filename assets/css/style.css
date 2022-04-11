@@ -114,9 +114,7 @@ header{
     font-size: 16px;
     line-height: 146%;  
     color: #FFFFFF;
-}
-.txt2{
-    margin-right: 49px;
+    justify-content: space-around;
 }
 /**************************** sec2 ****************************/
 .sec2{
@@ -290,6 +288,7 @@ header{
     color: #FFFFFF;
     margin-left: 50px;
     margin-top: 18px;
+    justify-content: space-around;
 }
 .btn3:hover{
     cursor: pointer;
@@ -309,7 +308,7 @@ header{
     margin-left: 50px;
     margin-top: 26px;
     margin-bottom: 134px;
-    
+    justify-content: space-around;
 }
 /**************************** sec3 ****************************/
 .sec3{
@@ -711,6 +710,7 @@ header{
     margin-left: 50px;
     margin-top: 26px;
     margin-bottom: 38px;
+    justify-content: space-around;
 }
 /**************************** sec7 ****************************/
 .sec7{
@@ -759,6 +759,7 @@ header{
 .sec7_line_alltxt{
     width: 555px;
     margin-top: 22px;
+    
 }
 .sec7_line_txt{
     font-weight: 400;

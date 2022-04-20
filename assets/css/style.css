@@ -112,9 +112,10 @@ header{
     border-radius: 90px;
     font-weight: 600;
     font-size: 16px;
-    line-height: 146%;  
-    color: #FFFFFF;
+    line-height: 146%; 
+    color: white;
     justify-content: space-around;
+    margin-right: 20px;
 }
 /**************************** sec2 ****************************/
 .sec2{
@@ -761,6 +762,10 @@ header{
     margin-top: 22px;
     
 }
+.ul_div{
+    display: flex;
+    margin-left: 340px;
+}
 .sec7_line_txt{
     font-weight: 400;
     font-size: 17px;
@@ -780,6 +785,7 @@ header{
     line-height: 146%;  
     color: #FFFFFF;
     margin-top: 66px;
+    justify-content: space-around;
 }
 /**************************** footer ****************************/
 footer{
